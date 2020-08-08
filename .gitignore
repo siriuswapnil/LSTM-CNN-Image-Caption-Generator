@@ -1,0 +1,12 @@
+# pycharm
+.idea/*
+
+# python
+*.pyc
+
+# network
+show-and-tell.zip
+show-and-tell.pb
+
+# example images
+imgs/*
